@@ -1,0 +1,437 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/3d bar chart.png</file>
+    <file>icons/Abort.png</file>
+    <file>icons/About.png</file>
+    <file>icons/Accounting.png</file>
+    <file>icons/Add.png</file>
+    <file>icons/Address book.png</file>
+    <file>icons/Alarm clock.png</file>
+    <file>icons/Alarm.png</file>
+    <file>icons/Alert.png</file>
+    <file>icons/Alien.png</file>
+    <file>icons/Anchor.png</file>
+    <file>icons/antenna.png</file>
+    <file>icons/antenna_waves_circular_blue.png</file>
+    <file>icons/antenna_waves_circular_green.png</file>
+    <file>icons/antenna_waves_circular_red.png</file>
+    <file>icons/Application.png</file>
+    <file>icons/Apply.png</file>
+    <file>icons/arrow_plain_blue_E.png</file>
+    <file>icons/arrow_plain_blue_E_W.png</file>
+    <file>icons/arrow_plain_blue_N.png</file>
+    <file>icons/arrow_plain_blue_N_E_S_W.png</file>
+    <file>icons/arrow_plain_blue_N_S.png</file>
+    <file>icons/arrow_plain_blue_NE_SE_SW_NW.png</file>
+    <file>icons/arrow_plain_blue_NE_SW.png</file>
+    <file>icons/arrow_plain_blue_NW_SE.png</file>
+    <file>icons/arrow_plain_blue_S.png</file>
+    <file>icons/arrow_plain_blue_W.png</file>
+    <file>icons/arrow_plain_green_E.png</file>
+    <file>icons/arrow_plain_green_N.png</file>
+    <file>icons/arrow_plain_green_S.png</file>
+    <file>icons/arrow_plain_green_W.png</file>
+    <file>icons/arrow_plain_red_E.png</file>
+    <file>icons/arrow_plain_red_N.png</file>
+    <file>icons/arrow_plain_red_S.png</file>
+    <file>icons/arrow_plain_red_W.png</file>
+    <file>icons/arrow_plain_yellow_E.png</file>
+    <file>icons/arrow_plain_yellow_N.png</file>
+    <file>icons/arrow_plain_yellow_S.png</file>
+    <file>icons/arrow_plain_yellow_W.png</file>
+    <file>icons/Back.png</file>
+    <file>icons/Bad mark.png</file>
+    <file>icons/Bee.png</file>
+    <file>icons/Black bookmark.png</file>
+    <file>icons/Black pin.png</file>
+    <file>icons/Black tag.png</file>
+    <file>icons/Blog.png</file>
+    <file>icons/Blue bookmark.png</file>
+    <file>icons/Blue key.png</file>
+    <file>icons/Blue pin.png</file>
+    <file>icons/Blue tag.png</file>
+    <file>icons/Bomb.png</file>
+    <file>icons/Bookmark.png</file>
+    <file>icons/Boss.png</file>
+    <file>icons/Bottom.png</file>
+    <file>icons/Briefcase.png</file>
+    <file>icons/Brush.png</file>
+    <file>icons/Bubble.png</file>
+    <file>icons/Buy.png</file>
+    <file>icons/Calculator.png</file>
+    <file>icons/Calendar.png</file>
+    <file>icons/Car key.png</file>
+    <file>icons/CD.png</file>
+    <file>icons/cd_blue.png</file>
+    <file>icons/cd_golden.png</file>
+    <file>icons/cd_silver.png</file>
+    <file>icons/Clipboard.png</file>
+    <file>icons/Clock.png</file>
+    <file>icons/clock_0220.png</file>
+    <file>icons/Close.png</file>
+    <file>icons/Coin.png</file>
+    <file>icons/Comment.png</file>
+    <file>icons/Company.png</file>
+    <file>icons/Compass.png</file>
+    <file>icons/Component.png</file>
+    <file>icons/Computer.png</file>
+    <file>icons/computer_desktop.png</file>
+    <file>icons/computer_desktop_error.png</file>
+    <file>icons/computer_desktop_error_repeat.png</file>
+    <file>icons/computer_desktop_info.png</file>
+    <file>icons/computer_desktop_info_repeat.png</file>
+    <file>icons/computer_desktop_warning.png</file>
+    <file>icons/computer_desktop_warning_repeat.png</file>
+    <file>icons/controls.png</file>
+    <file>icons/Copy (2).png</file>
+    <file>icons/copy.png</file>
+    <file>icons/Create.png</file>
+    <file>icons/cursor_arrow.png</file>
+    <file>icons/Cut.png</file>
+    <file>icons/Danger.png</file>
+    <file>icons/Database.png</file>
+    <file>icons/Delete.png</file>
+    <file>icons/delete_red.png</file>
+    <file>icons/Delivery.png</file>
+    <file>icons/Diagram.png</file>
+    <file>icons/Dial.png</file>
+    <file>icons/directions.png</file>
+    <file>icons/directory_closed.png</file>
+    <file>icons/directory_open.png</file>
+    <file>icons/Disaster.png</file>
+    <file>icons/disperse.png</file>
+    <file>icons/Display.png</file>
+    <file>icons/Dollar.png</file>
+    <file>icons/Door.png</file>
+    <file>icons/Down.png</file>
+    <file>icons/Download.png</file>
+    <file>icons/Downloads folder.png</file>
+    <file>icons/Earth.png</file>
+    <file>icons/Eject.png</file>
+    <file>icons/ellipse_blue.png</file>
+    <file>icons/ellipse_green.png</file>
+    <file>icons/ellipse_red.png</file>
+    <file>icons/ellipse_yellow.png</file>
+    <file>icons/E-mail.png</file>
+    <file>icons/Equipment.png</file>
+    <file>icons/Erase.png</file>
+    <file>icons/Error (2).png</file>
+    <file>icons/error.png</file>
+    <file>icons/Euro.png</file>
+    <file>icons/Exit (2).png</file>
+    <file>icons/exit.png</file>
+    <file>icons/Expand.png</file>
+    <file>icons/Eye.png</file>
+    <file>icons/Fall.png</file>
+    <file>icons/Fast-forward.png</file>
+    <file>icons/Favourites.png</file>
+    <file>icons/Female symbol.png</file>
+    <file>icons/Female.png</file>
+    <file>icons/file_yellow.png</file>
+    <file>icons/file_yellow_empty.png</file>
+    <file>icons/file_yellow_empty_new.png</file>
+    <file>icons/file_yellow_hierarchy1_expanded.png</file>
+    <file>icons/file_yellow_hierarchy1_expanded_open_hdd.png</file>
+    <file>icons/file_yellow_hierarchy1_expanded_save_hdd.png</file>
+    <file>icons/file_yellow_hierarchy1_expanded_save_hdd_ellipsis.png</file>
+    <file>icons/file_yellow_open.png</file>
+    <file>icons/file_yellow_open_hdd.png</file>
+    <file>icons/file_yellow_paintings.png</file>
+    <file>icons/file_yellow_paintings_new.png</file>
+    <file>icons/file_yellow_paintings_open.png</file>
+    <file>icons/file_yellow_paintings_open_hdd.png</file>
+    <file>icons/file_yellow_paintings_save.png</file>
+    <file>icons/file_yellow_paintings_save_ellipsis.png</file>
+    <file>icons/file_yellow_paintings_save_hdd.png</file>
+    <file>icons/file_yellow_paintings_save_hdd_ellipsis.png</file>
+    <file>icons/file_yellow_save.png</file>
+    <file>icons/file_yellow_save_ellipsis.png</file>
+    <file>icons/file_yellow_save_hdd.png</file>
+    <file>icons/file_yellow_save_hdd_ellipsis.png</file>
+    <file>icons/file_yellow_split.png</file>
+    <file>icons/file_yellow_trashcan.png</file>
+    <file>icons/files_yellow_combine.png</file>
+    <file>icons/files_yellow_transform_cyan.png</file>
+    <file>icons/Film.png</file>
+    <file>icons/Filter.png</file>
+    <file>icons/Find.png</file>
+    <file>icons/First record.png</file>
+    <file>icons/First.png</file>
+    <file>icons/Flag.png</file>
+    <file>icons/Flash drive.png</file>
+    <file>icons/floppy_35inch_black.png</file>
+    <file>icons/floppy_35inch_blue.png</file>
+    <file>icons/floppy_35inch_green.png</file>
+    <file>icons/floppy_35inch_red.png</file>
+    <file>icons/floppy_35inch_white.png</file>
+    <file>icons/floppy_35inch_yellow.png</file>
+    <file>icons/Folder.png</file>
+    <file>icons/Forbidden.png</file>
+    <file>icons/Forward.png</file>
+    <file>icons/Free bsd.png</file>
+    <file>icons/Gift.png</file>
+    <file>icons/Globe.png</file>
+    <file>icons/Go back.png</file>
+    <file>icons/Go forward.png</file>
+    <file>icons/Go.png</file>
+    <file>icons/Good mark.png</file>
+    <file>icons/graph.png</file>
+    <file>icons/graph_bars.png</file>
+    <file>icons/graph_dots.png</file>
+    <file>icons/graph_line.png</file>
+    <file>icons/graph_pie.png</file>
+    <file>icons/graph_polygon.png</file>
+    <file>icons/Green bookmark.png</file>
+    <file>icons/Green pin.png</file>
+    <file>icons/Green tag.png</file>
+    <file>icons/Hard disk.png</file>
+    <file>icons/hdd.png</file>
+    <file>icons/Heart.png</file>
+    <file>icons/Help (2).png</file>
+    <file>icons/Help book 3d.png</file>
+    <file>icons/Help book.png</file>
+    <file>icons/help.png</file>
+    <file>icons/hierarchy1.png</file>
+    <file>icons/hierarchy1_expanded.png</file>
+    <file>icons/Hint.png</file>
+    <file>icons/History.png</file>
+    <file>icons/Home.png</file>
+    <file>icons/Hourglass.png</file>
+    <file>icons/How-to.png</file>
+    <file>icons/Hungup.png</file>
+    <file>icons/Info (2).png</file>
+    <file>icons/info.png</file>
+    <file>icons/internet_cyan.png</file>
+    <file>icons/internet_magenta.png</file>
+    <file>icons/internet_red.png</file>
+    <file>icons/internet_yellow.png</file>
+    <file>icons/In-yang.png</file>
+    <file>icons/Iphone.png</file>
+    <file>icons/Key.png</file>
+    <file>icons/key_golden.png</file>
+    <file>icons/key_primary.png</file>
+    <file>icons/key_primary_multicolumn.png</file>
+    <file>icons/key_primary_reset.png</file>
+    <file>icons/key_silver.png</file>
+    <file>icons/Last recor.png</file>
+    <file>icons/Last.png</file>
+    <file>icons/Left-right.png</file>
+    <file>icons/Letter.png</file>
+    <file>icons/lightbulb.png</file>
+    <file>icons/lightbulb_lit.png</file>
+    <file>icons/Lightning.png</file>
+    <file>icons/lightning_cyan.png</file>
+    <file>icons/lightning_green.png</file>
+    <file>icons/lightning_red.png</file>
+    <file>icons/lightning_yellow.png</file>
+    <file>icons/Liner.png</file>
+    <file>icons/Linux.png</file>
+    <file>icons/List.png</file>
+    <file>icons/Load.png</file>
+    <file>icons/Lock.png</file>
+    <file>icons/Low rating.png</file>
+    <file>icons/Magic wand.png</file>
+    <file>icons/magnet.png</file>
+    <file>icons/magnifier.png</file>
+    <file>icons/magnifier_minus_blue.png</file>
+    <file>icons/magnifier_minus_green.png</file>
+    <file>icons/magnifier_minus_red.png</file>
+    <file>icons/magnifier_plus_blue.png</file>
+    <file>icons/magnifier_plus_green.png</file>
+    <file>icons/magnifier_plus_red.png</file>
+    <file>icons/Mail.png</file>
+    <file>icons/Male symbol.png</file>
+    <file>icons/Male.png</file>
+    <file>icons/Medium rating.png</file>
+    <file>icons/Message.png</file>
+    <file>icons/minus_blue.png</file>
+    <file>icons/minus_green.png</file>
+    <file>icons/minus_red.png</file>
+    <file>icons/Mobile-phone.png</file>
+    <file>icons/Modify.png</file>
+    <file>icons/Move.png</file>
+    <file>icons/Movie.png</file>
+    <file>icons/Music.png</file>
+    <file>icons/Mute.png</file>
+    <file>icons/Network connection.png</file>
+    <file>icons/New document.png</file>
+    <file>icons/New.png</file>
+    <file>icons/Next track.png</file>
+    <file>icons/Next.png</file>
+    <file>icons/No (2).png</file>
+    <file>icons/no.png</file>
+    <file>icons/No-entry.png</file>
+    <file>icons/Notes.png</file>
+    <file>icons/OK.png</file>
+    <file>icons/padlock_closed.png</file>
+    <file>icons/padlock_open.png</file>
+    <file>icons/painting.png</file>
+    <file>icons/painting_faded.png</file>
+    <file>icons/painting_faded_no.png</file>
+    <file>icons/painting_faded_yes.png</file>
+    <file>icons/painting_no.png</file>
+    <file>icons/painting_yes.png</file>
+    <file>icons/Paste (2).png</file>
+    <file>icons/paste.png</file>
+    <file>icons/Pause.png</file>
+    <file>icons/People.png</file>
+    <file>icons/Percent.png</file>
+    <file>icons/Person.png</file>
+    <file>icons/Phone number.png</file>
+    <file>icons/Phone.png</file>
+    <file>icons/Picture.png</file>
+    <file>icons/Pie chart.png</file>
+    <file>icons/Pinion.png</file>
+    <file>icons/planet_earthlike.png</file>
+    <file>icons/Play.png</file>
+    <file>icons/Playback.png</file>
+    <file>icons/Play-music.png</file>
+    <file>icons/plus_blue.png</file>
+    <file>icons/plus_green.png</file>
+    <file>icons/plus_red.png</file>
+    <file>icons/polygon_blue.png</file>
+    <file>icons/polygon_green.png</file>
+    <file>icons/polygon_red.png</file>
+    <file>icons/polygon_yellow.png</file>
+    <file>icons/Previous record.png</file>
+    <file>icons/Previous.png</file>
+    <file>icons/Print.png</file>
+    <file>icons/Problem.png</file>
+    <file>icons/Question (2).png</file>
+    <file>icons/question.png</file>
+    <file>icons/Radiation.png</file>
+    <file>icons/Raise.png</file>
+    <file>icons/Record.png</file>
+    <file>icons/rectangle_blue.png</file>
+    <file>icons/rectangle_green.png</file>
+    <file>icons/rectangle_red.png</file>
+    <file>icons/rectangle_yellow.png</file>
+    <file>icons/Red bookmark.png</file>
+    <file>icons/Red mark.png</file>
+    <file>icons/Red pin.png</file>
+    <file>icons/Red star.png</file>
+    <file>icons/Red tag.png</file>
+    <file>icons/Redo.png</file>
+    <file>icons/redo_blue.png</file>
+    <file>icons/redo_green.png</file>
+    <file>icons/redo_yellow.png</file>
+    <file>icons/Refresh.png</file>
+    <file>icons/Remove.png</file>
+    <file>icons/Repair.png</file>
+    <file>icons/repeat_green.png</file>
+    <file>icons/Report.png</file>
+    <file>icons/Retort.png</file>
+    <file>icons/revive.png</file>
+    <file>icons/Rewind.png</file>
+    <file>icons/Sad.png</file>
+    <file>icons/Save.png</file>
+    <file>icons/Schedule.png</file>
+    <file>icons/Script.png</file>
+    <file>icons/Search.png</file>
+    <file>icons/select_all.png</file>
+    <file>icons/select_many.png</file>
+    <file>icons/select_none.png</file>
+    <file>icons/select_one.png</file>
+    <file>icons/serpha.ico</file>
+    <file>icons/serpha.jpg</file>
+    <file>icons/Shield.png</file>
+    <file>icons/Shopping cart.png</file>
+    <file>icons/Silence.png</file>
+    <file>icons/Smile.png</file>
+    <file>icons/Sound.png</file>
+    <file>icons/Stock graph.png</file>
+    <file>icons/Stop sign.png</file>
+    <file>icons/Stop.png</file>
+    <file>icons/Stopwatch.png</file>
+    <file>icons/Sum.png</file>
+    <file>icons/Sync.png</file>
+    <file>icons/Table (2).png</file>
+    <file>icons/table.png</file>
+    <file>icons/table_column.png</file>
+    <file>icons/table_column_delete.png</file>
+    <file>icons/table_column_new.png</file>
+    <file>icons/table_column_reload.png</file>
+    <file>icons/table_delete.png</file>
+    <file>icons/table_error.png</file>
+    <file>icons/table_index.png</file>
+    <file>icons/table_index_error.png</file>
+    <file>icons/table_index_info.png</file>
+    <file>icons/table_index_warning.png</file>
+    <file>icons/table_info.png</file>
+    <file>icons/table_name.png</file>
+    <file>icons/table_name_copy.png</file>
+    <file>icons/table_name_pencil_green.png</file>
+    <file>icons/table_name_pencil_magenta.png</file>
+    <file>icons/table_new.png</file>
+    <file>icons/table_pencil_green.png</file>
+    <file>icons/table_pencil_magenta.png</file>
+    <file>icons/table_reload.png</file>
+    <file>icons/table_row.png</file>
+    <file>icons/table_row_delete.png</file>
+    <file>icons/table_row_new.png</file>
+    <file>icons/table_row_reload.png</file>
+    <file>icons/table_sort_asc.png</file>
+    <file>icons/table_sort_desc.png</file>
+    <file>icons/table_warning.png</file>
+    <file>icons/tables.png</file>
+    <file>icons/tables_reload.png</file>
+    <file>icons/tables_wand.png</file>
+    <file>icons/tag_blue.png</file>
+    <file>icons/tag_cyan.png</file>
+    <file>icons/tag_green.png</file>
+    <file>icons/tag_magenta.png</file>
+    <file>icons/tag_red.png</file>
+    <file>icons/tag_white.png</file>
+    <file>icons/tag_yellow.png</file>
+    <file>icons/Target.png</file>
+    <file>icons/Taxi.png</file>
+    <file>icons/Terminate.png</file>
+    <file>icons/Text preview.png</file>
+    <file>icons/Text.png</file>
+    <file>icons/Thumbs down.png</file>
+    <file>icons/Thumbs up.png</file>
+    <file>icons/Toolbox.png</file>
+    <file>icons/tools.png</file>
+    <file>icons/Top.png</file>
+    <file>icons/Trackback.png</file>
+    <file>icons/Trash.png</file>
+    <file>icons/triangle_blue.png</file>
+    <file>icons/triangle_green.png</file>
+    <file>icons/triangle_red.png</file>
+    <file>icons/triangle_yellow.png</file>
+    <file>icons/Tune.png</file>
+    <file>icons/Turn off.png</file>
+    <file>icons/Twitter.png</file>
+    <file>icons/Undo.png</file>
+    <file>icons/undo_blue.png</file>
+    <file>icons/undo_green.png</file>
+    <file>icons/undo_yellow.png</file>
+    <file>icons/Unlock.png</file>
+    <file>icons/Up.png</file>
+    <file>icons/Update.png</file>
+    <file>icons/Up-down.png</file>
+    <file>icons/Upload.png</file>
+    <file>icons/User group.png</file>
+    <file>icons/View.png</file>
+    <file>icons/Volume.png</file>
+    <file>icons/Wallet.png</file>
+    <file>icons/wand.png</file>
+    <file>icons/Warning (2).png</file>
+    <file>icons/warning.png</file>
+    <file>icons/window.png</file>
+    <file>icons/window_help.png</file>
+    <file>icons/window_inactive.png</file>
+    <file>icons/window_info.png</file>
+    <file>icons/window_select.png</file>
+    <file>icons/window_yesno.png</file>
+    <file>icons/windows_cascade.png</file>
+    <file>icons/windows_tile.png</file>
+    <file>icons/Wrench.png</file>
+    <file>icons/Yellow bookmark.png</file>
+    <file>icons/Yellow pin.png</file>
+    <file>icons/Yellow tag.png</file>
+    <file>icons/Yes (2).png</file>
+    <file>icons/yes.png</file>
+    <file>icons/Zoom.png</file>
+  </qresource>
+</RCC>

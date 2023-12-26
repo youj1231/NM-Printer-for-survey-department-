@@ -1,0 +1,52 @@
+{
+    "NM-1":{
+        "dx":0.05, "gab":0,
+        "road width":9.0, "antena width":2.5,
+
+        "export":{
+            "dist/image":200, "line scan":{"size":[12.5, 2.5]},
+            "b scan":{"select":[11, 23], "size":[12.5, 3.5]},
+            "c scan":{"select":[70, 120, 210, 310, 410], "size":[12.5, 1.5]}
+        }
+    },
+    "NM-2":{
+        "dx":0.05, "gab":0,
+        "road width":9.0, "antena width":2.5,
+
+        "export":{
+            "dist/image":200, "line scan":{"size":[12.5, 2.5]},
+            "b scan":{"select":[15, 30], "size":[12.5, 3.5]},
+            "c scan":{"select":[70, 120, 210, 310, 410], "size":[12.5, 1.5]}
+        }
+    },
+    "NM-3":{
+        "dx":0.05, "gab":0,
+        "road width":8.0, "antena width":2.5,
+
+        "export":{
+            "dist/image":200, "line scan":{"size":[12.5, 2.5]},
+            "b scan":{"select":[7, 14], "size":[12.5, 3.5]},
+            "c scan":{"select":[70, 120, 210, 310, 410], "size":[12.5, 1.5]}
+        }
+    },
+    "LATRO-1":{
+        "dx":0.015472, "gab":-1.0,
+        "road width":8.0, "antena width":2.5,
+
+        "export":{
+            "dist/image":200, "line scan":{"size":[12.5, 2.5]},
+            "b scan":{"select":[5, 10], "size":[12.5, 3.5]},
+            "c scan":{"select":[70, 120, 210, 310, 410], "size":[12.5, 1.5]}
+        }
+    },
+    "LATRO-2":{
+        "dx":0.015472, "gab":-2.0,
+        "road width":8.0, "antena width":2.5,
+
+        "export":{
+            "dist/image":200, "line scan":{"size":[12.5, 2.5]},
+            "b scan":{"select":[5, 10], "size":[12.5, 3.5]},
+            "c scan":{"select":[70, 120, 210, 310, 410], "size":[12.5, 1.5]}
+        }
+    }
+}
